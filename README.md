@@ -4,6 +4,9 @@
 [![Email](https://img.shields.io/badge/tlarbdnjs3011@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tlarbdnjs3011@gmail.com)
 
 
+### 🚀 About Me
+- 🌱 I’m currently learning **cloud architecture** and enhancing my **backend skills**.
+  
 
 ### 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
@@ -25,7 +28,7 @@
 
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KYUWON1&show_icons=true&theme=default)
 
 ### 📈 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KYUWON1&layout=compact&theme=default)
