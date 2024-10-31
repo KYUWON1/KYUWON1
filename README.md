@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/b811d6f9e3b64e8498270e7f87047b39)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tlarbdnjs3011@gmail.com)
+[![Email](https://img.shields.io/badge/tlarbdnjs3011@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tlarbdnjs3011@gmail.com)
 
 
 ### 🛠 Tech Stack
