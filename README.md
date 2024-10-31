@@ -1,7 +1,3 @@
 ## Hi there 👋
 
-<div align=center>
- 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KYUWON1&theme=dark)](https://git.io/streak-stats)
- 
-</div>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
